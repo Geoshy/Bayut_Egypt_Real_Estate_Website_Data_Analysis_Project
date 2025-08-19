@@ -108,6 +108,5 @@ def bayut_egypt(link, link_2=[]):
         print(f'Error With -bayut_egypt- Function: {error}')
 
 
-print(bayut_egypt(page_link, links))
 
 
