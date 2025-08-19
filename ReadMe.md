@@ -5,7 +5,7 @@ This project focuses on a detailed data analysis of the **real estate marke** in
 
 The project **workflow** begins with **web scraping** using **Python** libraries such as **BeautifulSoup and Selenium** to gather data from **the Bayut Egypt real estate website**. This raw data is then exported into a **CSV file** for subsequent processing. The next phase involves **data cleaning, formatting, and standardization using Pandas and NumPy libraries**, addressing issues such as **duplicate values, outliers, and null values**. The cleaned dataset is then exported to a **CSV file** for exploratory data analysis (EDA).
 
-For **exploratory data analysis (EDA)**, the project employs **Python **libraries like **Matplotlib** to create visualizations, conducting both **univariate and bivariate analyses** to understand data distributions and relationships. Then I used **Power BI** to develop a **dynamic dashboard** that clearly represents the trends and insights derived from the data.
+For **exploratory data analysis (EDA)**, the project employs **Python libraries like Matplotlib** to create visualizations, conducting both **univariate and bivariate analyses** to understand data distributions and relationships. Then I used **Power BI** to develop a **dynamic dashboard** that clearly represents the trends and insights derived from the data.
 
 ## **(2) Tools I Used:**
 1. **Web Scraping Python Libraries (Beautifulsoup -  selenium):** for automatically extracting data from Real Estate Website.
